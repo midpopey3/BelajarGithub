@@ -1,0 +1,6 @@
+daftar makanan favorit
+1.mie ayam
+2.rujak 
+3.nasi goreng ati
+4.spaghetti
+5.burger
